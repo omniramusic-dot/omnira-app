@@ -1,0 +1,1 @@
+export default function Sidebar() { return <div className='w-64 h-screen bg-black/30 backdrop-blur-xl text-white p-4'>Sidebar</div>; }

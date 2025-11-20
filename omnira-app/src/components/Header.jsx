@@ -1,0 +1,1 @@
+export default function Header() { return <div className='w-full h-16 bg-black/20 backdrop-blur-xl text-white p-4'>Header</div>; }
